@@ -1,6 +1,8 @@
 
 
 	public class fighter implements Characters{
+		
+		//comes up with an error on the word "fighter" 
 
 		this.health = health;
 		this.mana = mana;
