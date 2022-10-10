@@ -6,7 +6,7 @@ public class BattleV2 {
 	public class battleV2 extends fighter{
 	
 		 public static void display() {
-		 
+		//displays the values
 	    System.out.println(" actions points is: " + actionPoints);
 	    System.out.println(" hp is: " + health);
 	    System.out.println(" mana is: " + mana);
@@ -21,7 +21,7 @@ public class BattleV2 {
 		actionPoints = 2;
 		health = 100;
 		mana = 200;
-		
+		//gives the inherited varibes their values
 		display();
 	
 		
